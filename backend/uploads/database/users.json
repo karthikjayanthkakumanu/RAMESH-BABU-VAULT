@@ -1,0 +1,32 @@
+[
+  {
+    "id": "dm0x1j1mrwgvdm5",
+    "_id": "dm0x1j1mrwgvdm5",
+    "name": "Kakumanu Ramesh Babu",
+    "username": "9705411415",
+    "password": "$2a$10$yNw1Rosvj/UMak6RV8GWourbBviMVfNKdZyZtjNBiBp9J9MhdX7MW",
+    "role": "Admin",
+    "createdAt": "2026-07-22T19:19:48.653Z",
+    "updatedAt": "2026-07-22T19:19:48.655Z"
+  },
+  {
+    "id": "ycjryefmrwgvdp7",
+    "_id": "ycjryefmrwgvdp7",
+    "name": "Kakumanu Karthik Jayanth",
+    "username": "7386002627",
+    "password": "$2a$10$Fx6cZA5eVn2tZM33I3Z.zO1wsheFa4VdCtkN1VhkqaoHb9IXbPQJa",
+    "role": "Admin",
+    "createdAt": "2026-07-22T19:19:48.763Z",
+    "updatedAt": "2026-07-22T19:19:48.763Z"
+  },
+  {
+    "id": "tdrc0damrwgvdrq",
+    "_id": "tdrc0damrwgvdrq",
+    "name": "Kakumanu Lalitha Karuna",
+    "username": "9951903389",
+    "password": "$2a$10$R6uWZWekuhWImARHFARK3e8ctIOR2ZC7mIqtHa7Dnf3ZYRzG0Hxi.",
+    "role": "Admin",
+    "createdAt": "2026-07-22T19:19:48.854Z",
+    "updatedAt": "2026-07-22T19:19:48.854Z"
+  }
+]

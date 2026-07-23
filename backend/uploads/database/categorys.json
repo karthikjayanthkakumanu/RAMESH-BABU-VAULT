@@ -1,0 +1,74 @@
+[
+  {
+    "id": "2fimroqmrwgvdui",
+    "_id": "2fimroqmrwgvdui",
+    "name": "KAKUMANU RAMESH BABU (Boss)",
+    "isPredefined": true,
+    "description": "Documents related to KAKUMANU RAMESH BABU (Boss)",
+    "createdAt": "2026-07-22T19:19:48.954Z",
+    "updatedAt": "2026-07-22T19:19:48.954Z"
+  },
+  {
+    "id": "a0lfqavmrwgvdvy",
+    "_id": "a0lfqavmrwgvdvy",
+    "name": "KAKUMANU LALITHA KARUNA (Home Minister)",
+    "isPredefined": true,
+    "description": "Documents related to KAKUMANU LALITHA KARUNA (Home Minister)",
+    "createdAt": "2026-07-22T19:19:49.006Z",
+    "updatedAt": "2026-07-22T19:19:49.006Z"
+  },
+  {
+    "id": "4cdb7xomrwgvdwz",
+    "_id": "4cdb7xomrwgvdwz",
+    "name": "KAKUMANU DEVI KALA NIHARIKA (Queen of The House)",
+    "isPredefined": true,
+    "description": "Documents related to KAKUMANU DEVI KALA NIHARIKA (Queen of The House)",
+    "createdAt": "2026-07-22T19:19:49.043Z",
+    "updatedAt": "2026-07-22T19:19:49.043Z"
+  },
+  {
+    "id": "2wvy3ktmrwgvdxo",
+    "_id": "2wvy3ktmrwgvdxo",
+    "name": "KAKUMANU KARTHIK JAYANTH (Chief Secretary)",
+    "isPredefined": true,
+    "description": "Documents related to KAKUMANU KARTHIK JAYANTH (Chief Secretary)",
+    "createdAt": "2026-07-22T19:19:49.068Z",
+    "updatedAt": "2026-07-22T19:19:49.068Z"
+  },
+  {
+    "id": "xwcwyi4mrwgvdyn",
+    "_id": "xwcwyi4mrwgvdyn",
+    "name": "HOUSE DOCUMENTS",
+    "isPredefined": true,
+    "description": "Documents related to HOUSE DOCUMENTS",
+    "createdAt": "2026-07-22T19:19:49.103Z",
+    "updatedAt": "2026-07-22T19:19:49.103Z"
+  },
+  {
+    "id": "e15wf2rmrwgvdys",
+    "_id": "e15wf2rmrwgvdys",
+    "name": "BANK RELATED DOCUMENTS",
+    "isPredefined": true,
+    "description": "Documents related to BANK RELATED DOCUMENTS",
+    "createdAt": "2026-07-22T19:19:49.108Z",
+    "updatedAt": "2026-07-22T19:19:49.108Z"
+  },
+  {
+    "id": "yo6x72lmrwgvdz2",
+    "_id": "yo6x72lmrwgvdz2",
+    "name": "FAMILY MEMBER DOCUMENTS",
+    "isPredefined": true,
+    "description": "Documents related to FAMILY MEMBER DOCUMENTS",
+    "createdAt": "2026-07-22T19:19:49.118Z",
+    "updatedAt": "2026-07-22T19:19:49.118Z"
+  },
+  {
+    "id": "5rso37amrwgvdzd",
+    "_id": "5rso37amrwgvdzd",
+    "name": "OTHERS",
+    "isPredefined": true,
+    "description": "Documents related to OTHERS",
+    "createdAt": "2026-07-22T19:19:49.129Z",
+    "updatedAt": "2026-07-22T19:19:49.129Z"
+  }
+]

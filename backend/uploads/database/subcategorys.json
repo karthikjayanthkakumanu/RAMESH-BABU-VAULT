@@ -1,0 +1,209 @@
+[
+  {
+    "id": "2dl99ukmrwgvdul",
+    "_id": "2dl99ukmrwgvdul",
+    "name": "Education",
+    "category": "2fimroqmrwgvdui",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:48.957Z",
+    "updatedAt": "2026-07-22T19:19:48.957Z"
+  },
+  {
+    "id": "vjca4xemrwgvdur",
+    "_id": "vjca4xemrwgvdur",
+    "name": "Banks",
+    "category": "2fimroqmrwgvdui",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:48.963Z",
+    "updatedAt": "2026-07-22T19:19:48.963Z"
+  },
+  {
+    "id": "vcy1ndfmrwgvduw",
+    "_id": "vcy1ndfmrwgvduw",
+    "name": "Important Documents",
+    "category": "2fimroqmrwgvdui",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:48.968Z",
+    "updatedAt": "2026-07-22T19:19:48.968Z"
+  },
+  {
+    "id": "ja576y9mrwgvdv1",
+    "_id": "ja576y9mrwgvdv1",
+    "name": "Petrol Bunk Papers",
+    "category": "2fimroqmrwgvdui",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:48.973Z",
+    "updatedAt": "2026-07-22T19:19:48.973Z"
+  },
+  {
+    "id": "y52twoomrwgvdv9",
+    "_id": "y52twoomrwgvdv9",
+    "name": "I. Sathyanarayana Documents",
+    "category": "2fimroqmrwgvdui",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:48.981Z",
+    "updatedAt": "2026-07-22T19:19:48.981Z"
+  },
+  {
+    "id": "tgs3wmsmrwgvdvg",
+    "_id": "tgs3wmsmrwgvdvg",
+    "name": "Loan Documents",
+    "category": "2fimroqmrwgvdui",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:48.988Z",
+    "updatedAt": "2026-07-22T19:19:48.988Z"
+  },
+  {
+    "id": "jtck251mrwgvdvn",
+    "_id": "jtck251mrwgvdvn",
+    "name": "Important Screenshots",
+    "category": "2fimroqmrwgvdui",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:48.996Z",
+    "updatedAt": "2026-07-22T19:19:48.996Z"
+  },
+  {
+    "id": "zc5wvzfmrwgvdvt",
+    "_id": "zc5wvzfmrwgvdvt",
+    "name": "Other Documents",
+    "category": "2fimroqmrwgvdui",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.001Z",
+    "updatedAt": "2026-07-22T19:19:49.001Z"
+  },
+  {
+    "id": "fhewr38mrwgvdw5",
+    "_id": "fhewr38mrwgvdw5",
+    "name": "Education",
+    "category": "a0lfqavmrwgvdvy",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.013Z",
+    "updatedAt": "2026-07-22T19:19:49.013Z"
+  },
+  {
+    "id": "zccxlw2mrwgvdwb",
+    "_id": "zccxlw2mrwgvdwb",
+    "name": "Banks",
+    "category": "a0lfqavmrwgvdvy",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.019Z",
+    "updatedAt": "2026-07-22T19:19:49.019Z"
+  },
+  {
+    "id": "9ioh2mdmrwgvdwi",
+    "_id": "9ioh2mdmrwgvdwi",
+    "name": "Important Documents",
+    "category": "a0lfqavmrwgvdvy",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.026Z",
+    "updatedAt": "2026-07-22T19:19:49.026Z"
+  },
+  {
+    "id": "ih0tbujmrwgvdwn",
+    "_id": "ih0tbujmrwgvdwn",
+    "name": "Loan Documents",
+    "category": "a0lfqavmrwgvdvy",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.031Z",
+    "updatedAt": "2026-07-22T19:19:49.031Z"
+  },
+  {
+    "id": "v77pnnfmrwgvdwt",
+    "_id": "v77pnnfmrwgvdwt",
+    "name": "Other Documents",
+    "category": "a0lfqavmrwgvdvy",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.037Z",
+    "updatedAt": "2026-07-22T19:19:49.037Z"
+  },
+  {
+    "id": "ikvs6i3mrwgvdx5",
+    "_id": "ikvs6i3mrwgvdx5",
+    "name": "Education",
+    "category": "4cdb7xomrwgvdwz",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.049Z",
+    "updatedAt": "2026-07-22T19:19:49.049Z"
+  },
+  {
+    "id": "xth1wdfmrwgvdx9",
+    "_id": "xth1wdfmrwgvdx9",
+    "name": "Important Documents",
+    "category": "4cdb7xomrwgvdwz",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.053Z",
+    "updatedAt": "2026-07-22T19:19:49.053Z"
+  },
+  {
+    "id": "4ej70kvmrwgvdxe",
+    "_id": "4ej70kvmrwgvdxe",
+    "name": "School Documents",
+    "category": "4cdb7xomrwgvdwz",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.058Z",
+    "updatedAt": "2026-07-22T19:19:49.058Z"
+  },
+  {
+    "id": "vueur5lmrwgvdxk",
+    "_id": "vueur5lmrwgvdxk",
+    "name": "Other Documents",
+    "category": "4cdb7xomrwgvdwz",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.064Z",
+    "updatedAt": "2026-07-22T19:19:49.064Z"
+  },
+  {
+    "id": "l9dafs3mrwgvdxt",
+    "_id": "l9dafs3mrwgvdxt",
+    "name": "Education",
+    "category": "2wvy3ktmrwgvdxo",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.073Z",
+    "updatedAt": "2026-07-22T19:19:49.073Z"
+  },
+  {
+    "id": "y7kyiysmrwgvdxy",
+    "_id": "y7kyiysmrwgvdxy",
+    "name": "Important Documents",
+    "category": "2wvy3ktmrwgvdxo",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.078Z",
+    "updatedAt": "2026-07-22T19:19:49.078Z"
+  },
+  {
+    "id": "eoj8kzsmrwgvdy3",
+    "_id": "eoj8kzsmrwgvdy3",
+    "name": "Banks",
+    "category": "2wvy3ktmrwgvdxo",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.083Z",
+    "updatedAt": "2026-07-22T19:19:49.083Z"
+  },
+  {
+    "id": "9k4m6w3mrwgvdy9",
+    "_id": "9k4m6w3mrwgvdy9",
+    "name": "Loan Documents",
+    "category": "2wvy3ktmrwgvdxo",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.089Z",
+    "updatedAt": "2026-07-22T19:19:49.089Z"
+  },
+  {
+    "id": "smox60nmrwgvdyf",
+    "_id": "smox60nmrwgvdyf",
+    "name": "Parul Documents",
+    "category": "2wvy3ktmrwgvdxo",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.095Z",
+    "updatedAt": "2026-07-22T19:19:49.095Z"
+  },
+  {
+    "id": "ls29wgwmrwgvdyj",
+    "_id": "ls29wgwmrwgvdyj",
+    "name": "Other Documents",
+    "category": "2wvy3ktmrwgvdxo",
+    "isPredefined": true,
+    "createdAt": "2026-07-22T19:19:49.099Z",
+    "updatedAt": "2026-07-22T19:19:49.099Z"
+  }
+]
